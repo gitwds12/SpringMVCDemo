@@ -56,6 +56,7 @@ public class MainController {
         //userRepository.save(userEntity);
         System.out.println("firstName:"+userEntity.getFirstName());
         System.out.println(userEntity.getLastName());
+        System.out.println("这是一个测试代码");
 
         // 数据库中添加一个用户，并立即刷新缓存
         userRepository.saveAndFlush(userEntity);
