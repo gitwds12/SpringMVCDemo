@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="469ddc22-3be0-49ee-84e8-2e00086e6b06" name="Default" comment="merge new">
+    <list default="true" id="469ddc22-3be0-49ee-84e8-2e00086e6b06" name="Default" comment="[代码完善](1.0.2): 继续测试暂存功能&#10;&#10;继续测试暂存功能 还有冲突的解决">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/gaussic/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gaussic/controller/MainController.java" afterDir="false" />
     </list>
@@ -550,7 +550,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569208907043</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="merge new">
+      <created>1569209173645</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1569209173645</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -597,9 +604,9 @@
     <MESSAGE value="Update README.md" />
     <MESSAGE value="给pudDate添加@DatetimeFormat注解" />
     <MESSAGE value="spring 3.2 版本" />
-    <MESSAGE value="merge new" />
     <MESSAGE value="[代码完善](1.0.1): 测试代码哦&#10;&#10;测试代码哦" />
-    <option name="LAST_COMMIT_MESSAGE" value="[代码完善](1.0.1): 测试代码哦&#10;&#10;测试代码哦" />
+    <MESSAGE value="merge new" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge new" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
