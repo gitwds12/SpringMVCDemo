@@ -54,8 +54,8 @@ public class MainController {
 
         // 数据库中添加一个用户，该步暂时不会刷新缓存
         //userRepository.save(userEntity);
-        System.out.println("firstName:"+userEntity.getFirstName());
-        System.out.println("lastName:"+userEntity.getLastName());
+        System.out.println("the firstName:"+userEntity.getFirstName());
+        System.out.println("the lastName:"+userEntity.getLastName());
         System.out.println("这是一个测试代码");
 
         // 数据库中添加一个用户，并立即刷新缓存
