@@ -47,7 +47,7 @@ public class BlogController {
     @RequestMapping(value = "/admin/blogs/addP", method = RequestMethod.POST)
     public String addBlogPost(@ModelAttribute("blog") BlogEntity blogEntity) {
         // 打印博客标题
-        System.out.println(blogEntity.getTitle());
+        System.out.println("标题："+blogEntity.getTitle());
         // 打印博客作者
         System.out.println(blogEntity.getUserByUserId().getNickname());
         // 存库
