@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="469ddc22-3be0-49ee-84e8-2e00086e6b06" name="Default" comment="[代码完善](1.0.2): 继续测试暂存功能&#10;&#10;继续测试暂存功能 还有冲突的解决2">
+    <list default="true" id="469ddc22-3be0-49ee-84e8-2e00086e6b06" name="Default" comment="[代码完善](1.0.2): 继续测试暂存功能&#10;&#10;继续测试暂存功能 还有冲突的解决">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/gaussic/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gaussic/controller/MainController.java" afterDir="false" />
     </list>
@@ -62,9 +62,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\maven\LocalWarehouse" />
-        <option name="mavenHome" value="D:/maven/apache-maven-3.6.1" />
-        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1\conf\settings.xml" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.3.9" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -73,13 +71,13 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1RDfqTrvwEhaeypxpLM9Z2NiOtq" />
+  <component name="ProjectId" id="1RDhikS1adTZfLMdIVsjKfjulD6" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="JPA.DatabaseSchemaImportDialog" value="87866f9b-90c5-4a5a-8d9b-1ac31c5993a2" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
@@ -87,7 +85,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="ImportMappingsDialog.RecentPackages">
@@ -444,7 +443,7 @@
       <workItem from="1459146155481" duration="232000" />
       <workItem from="1468426048050" duration="795000" />
       <workItem from="1468427161955" duration="80000" />
-      <workItem from="1569206784123" duration="288000" />
+      <workItem from="1569207705959" duration="537000" />
     </task>
     <task id="LOCAL-00001" summary="add .gitignore">
       <created>1457454035296</created>
@@ -544,11 +543,35 @@
       <option name="project" value="LOCAL" />
       <updated>1468426428224</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="[代码完善](1.0.1): 测试代码哦&#10;&#10;测试代码哦">
+      <created>1569208907043</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1569208907043</updated>
+    </task>
+    <task id="LOCAL-00016" summary="merge new">
+      <created>1569209173645</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1569209173645</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -581,6 +604,7 @@
     <MESSAGE value="Update README.md" />
     <MESSAGE value="给pudDate添加@DatetimeFormat注解" />
     <MESSAGE value="spring 3.2 版本" />
+    <MESSAGE value="[代码完善](1.0.1): 测试代码哦&#10;&#10;测试代码哦" />
     <MESSAGE value="merge new" />
     <option name="LAST_COMMIT_MESSAGE" value="merge new" />
   </component>
